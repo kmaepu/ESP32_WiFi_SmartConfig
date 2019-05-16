@@ -5,7 +5,7 @@ ESP32のWiFiクライアント（STA）にはSmartConfigという関数があり
 
 スマートフォンの専用アプリはいくつかあるようですが、今回はIoT SmartConfig(Android用)というアプリを使用しています。
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/183282/3bd9415e-bfa3-ee28-9112-36e69c7866f0.png)
-(https://play.google.com/store/apps/details?id=com.iotmaker}
+https://play.google.com/store/apps/details?id=com.iotmaker
 
 
 # 環境
